@@ -46,8 +46,8 @@
 ## Output
 
 
-### Name:PRAVEEN RAJ R
-### Register Number: 24901056
+### Name:SANJANA.J
+### Register Number: 212224230240
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
